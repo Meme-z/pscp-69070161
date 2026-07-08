@@ -57,7 +57,7 @@ OJ status:
 
 ```text
 
-Pass / Not Pass / Not Submit
+Pass
 
 ```
 
